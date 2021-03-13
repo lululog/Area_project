@@ -4,7 +4,7 @@
 
 ```sh
 # Clone the repository
-git clone git@github.com:EpitechIT2020/B-YEP-500-PAR-5-1-area-adrien.mollat.git
+git clone git@github.com:lululog/Area_project.git
 # Make sure to create 2 .env files, one in /client_web the other one in /server
 
 # .env in client
